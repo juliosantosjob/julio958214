@@ -9,13 +9,14 @@
 #####   :pencil2: - Java, Ruby e JavaScript
 
  <div>
-  <a href="https://github.com/julio958214">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=julio958214&show_icons=false&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julio958214&layout=compact&langs_count=7&theme=vue-dark"/>  
+  <a href="https://github.com/juliosantosjob">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=juliosantosjob&show_icons=false&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliosantosjob&layout=compact&langs_count=7&theme=vue-dark"/>  
 </div>
   
   <div style="display: inline_block"><br>
-   <img align="center" alt="Julio" height="30" width="100" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+   <img align="center" alt="
+   " height="30" width="100" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
    <img align="center" alt="Julio" height="30" width="100" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
    <img align="center" alt="Julio" height="30" width="110" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
    <img align="center" alt="Julio" height="30" width="90" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
