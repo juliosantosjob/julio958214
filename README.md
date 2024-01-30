@@ -12,7 +12,7 @@
 
 - :blush: Passionate about delivering high-quality software.
 - :books: Focused on creating and executing manual and automated test scripts across front-end and back-end layers.
-- :green_book: Studying Systems Analysis and Development.
+- :green_book: Graduated in Systems Analysis and Development.
 - :pencil2: Proficient in Java, Ruby, and JavaScript.
 
 <div align="center">
