@@ -19,7 +19,7 @@
 ## 🛠️ Technologies
 <p align="left" style="display: flex; align-items: center;">
    <a href="https://skillicons.dev">
- <img src="https://skillicons.dev/icons?i=java,js,nodejs,npm,ruby,css,html,mysql,mongodb,jenkins,azure,aws,firebase,dynamodb,git,github,githubactions,eclipse,maven,notion,linux,ubuntu,windows,notion,yarn" alt="Tech Stack Icons"/>
+ <img src="https://skillicons.dev/icons?i=java,js,nodejs,npm,ruby,css,html,mysql,mongodb,jenkins,azure,aws,firebase,dynamodb,git,github,githubactions,eclipse,maven,notion,linux,ubuntu,windows,idea,vscode,notion,yarn" alt="Tech Stack Icons"/>
   </a>
 </p>
 
@@ -38,6 +38,8 @@
   <img src="https://img.shields.io/badge/Mocha-8D6748.svg?style=for-the-badge&logo=Mocha&logoColor=white" alt="Mocha" />
   <img src="https://img.shields.io/badge/Chai-A30701.svg?style=for-the-badge&logo=Chai&logoColor=white" alt="Chai" />
   <img src="https://img.shields.io/badge/DBeaver-3C9EFC.svg?style=for-the-badge&logo=DBeaver&logoColor=white" alt="DBeaver" />
+  <img src="https://img.shields.io/badge/iOS-000000.svg?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" />
+  <img src="https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
 </p>
 
 
