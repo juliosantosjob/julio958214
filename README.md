@@ -16,21 +16,31 @@
 
 # 💻 Tech Stack
 
-## 🛠️ Tecnologias
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,nodejs,ruby,css,html,mysql,mongodb,jenkins,azure,aws,firebase,git,github,cypress,selenium,postman,swagger,cucumber,restassured,playwright,codeceptjs,appium,capybara,githubactions,agile" alt="Tech Stack Icons"/>
+## 🛠️ Technologies
+<p align="left" style="display: flex; align-items: center;">
+   <a href="https://skillicons.dev">
+ <img src="https://skillicons.dev/icons?i=java,js,nodejs,npm,ruby,css,html,mysql,mongodb,jenkins,azure,aws,firebase,git,github,githubactions,eclipse,maven,notion,linux,ubuntu,windows,yarn" alt="Tech Stack Icons"/>
   </a>
 </p>
 
+## 🧪 Tests
 
+<p>
+  <img src="https://img.shields.io/badge/Cypress-4B8F29.svg?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=Selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/CodeceptJS-F6E05E.svg?style=for-the-badge&logo=CodeceptJS&logoColor=black" alt="CodeceptJS" />
+  <img src="https://img.shields.io/badge/Playwright-000000.svg?style=for-the-badge&logo=Playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Appium-EE376D.svg?style=for-the-badge&logo=Appium&logoColor=white" alt="Appium" />
+  <img src="https://img.shields.io/badge/Rest%20Assured-00B4E6.svg?style=for-the-badge&logo=RestAssured&logoColor=white" alt="Rest Assured" />
+  <img src="https://img.shields.io/badge/BrowserStack-00A3E0.svg?style=for-the-badge&logo=BrowserStack&logoColor=white" alt="BrowserStack" />
+</p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/julio.saantos199) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100003793058455) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/juli0sts/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-santos-43428019b)
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=juliosantosjob&icon=0&color=0)](https://visitcount.itsvg.in)
