@@ -2,10 +2,10 @@
 
 A Senior Quality Analyst who is detail-oriented and dedicated to delivering high-quality software solutions. With a strong focus on both manual and automated testing across front-end and back-end layers, I strive for excellence in every project.
 
-😊 Passionate about delivering high-quality software.
-📚 Experienced in creating and executing comprehensive manual and automated test scripts.
-📗 Graduated in Systems Analysis and Development from FMU.
-✏️ Proficient in Java, Ruby, and JavaScript, with practical experience in various testing tools and frameworks.
+😊 Passionate about delivering high-quality software. <br>
+📚 Experienced in creating and executing comprehensive manual and automated test scripts. <br>
+📗 Graduated in Systems Analysis and Development from FMU. <br>
+✏️ Proficient in Java, Ruby, and JavaScript, with practical experience in various testing tools and frameworks. <br>
 
 # 📊 GitHub Stats:
 
@@ -44,11 +44,12 @@ A Senior Quality Analyst who is detail-oriented and dedicated to delivering high
 </p>
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/julio.saantos199) 
+
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:julio958214@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-santos-43428019b)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100003793058455) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/oficial_juliosantos/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-santos-43428019b)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:julio958214@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/julio.saantos199) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=juliosantosjob&icon=0&color=0)](https://visitcount.itsvg.in)
