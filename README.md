@@ -1,12 +1,11 @@
-### Hello! 👋
+### Hello! I’m Julio Cesar dos Santos 👋
 
-I’m Julio Cesar dos Santos, a Senior Quality Analyst who is detail-oriented and dedicated to delivering high-quality software solutions. With a strong focus on both manual and automated testing across front-end and back-end layers, I strive for excellence in every project.
+A Senior Quality Analyst who is detail-oriented and dedicated to delivering high-quality software solutions. With a strong focus on both manual and automated testing across front-end and back-end layers, I strive for excellence in every project.
 
 😊 Passionate about delivering high-quality software.
 📚 Experienced in creating and executing comprehensive manual and automated test scripts.
 📗 Graduated in Systems Analysis and Development from FMU.
 ✏️ Proficient in Java, Ruby, and JavaScript, with practical experience in various testing tools and frameworks.
-
 
 # 📊 GitHub Stats:
 
@@ -15,7 +14,6 @@ I’m Julio Cesar dos Santos, a Senior Quality Analyst who is detail-oriented an
     width="400" height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliosantosjob&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="400" height="190" />
 </div>
-
 
 # 💻 Tech Stack
 
@@ -45,14 +43,12 @@ I’m Julio Cesar dos Santos, a Senior Quality Analyst who is detail-oriented an
   <img src="https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
 </p>
 
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/julio.saantos199) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100003793058455) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/oficial_juliosantos/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-santos-43428019b)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:julio958214@gmail.com)
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=juliosantosjob&icon=0&color=0)](https://visitcount.itsvg.in)
